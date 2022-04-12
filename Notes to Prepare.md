@@ -27,7 +27,7 @@
 	* single source shortest path problem
 	* multistage graph algorithm
 * Job Sequencing
-* Optimal Merge
+* Optimal Merging of Arrays:
 * Optimizing Encoding: Huffman Encoding
 
 ### M4
@@ -54,3 +54,4 @@
 * Hashing Algorithm
 * **Tabling Salesman Problem**
 
+---
