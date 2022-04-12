@@ -1,4 +1,3 @@
-# Algo
 ### M1
 * Definition of Algorithm
 * Design and performance analysis, 
