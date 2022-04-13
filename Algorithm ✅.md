@@ -25,9 +25,9 @@
 * Dijkstra's algorithm for 
 	* single source shortest path problem
 	* multistage graph algorithm
-* Job Sequencing
+* **Job Sequencing**
 * Optimal Merging of Arrays:
-* Optimizing Encoding: Huffman Encoding
+* Optimizing Encoding: **Huffman Encoding**
 
 ### M4
 * **Graph Algorithms**
@@ -46,7 +46,7 @@
 
 ### Also in Dynamic Programming
 * All pair shortest path: **Floyd Warshall algorithm**
-* Multiplication
+* Multiplication Alzebraic
 	* Multichain
 	* Polynomial
 	* Non-Polynomial
